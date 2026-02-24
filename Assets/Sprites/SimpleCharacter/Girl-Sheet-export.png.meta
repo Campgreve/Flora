@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 7ee0649fb714e4e72a8958b13f9b2385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -262282685395909929
+    second: Girl-Sheet-export_0
+  - first:
+      213: -4842570657630105594
+    second: Girl-Sheet-export_1
+  - first:
+      213: -1149187545849088269
+    second: Girl-Sheet-export_2
+  - first:
+      213: 9097458819088981396
+    second: Girl-Sheet-export_3
+  - first:
+      213: -3711681933726081711
+    second: Girl-Sheet-export_4
+  - first:
+      213: 8918779275263577629
+    second: Girl-Sheet-export_5
+  - first:
+      213: -5217790811274224585
+    second: Girl-Sheet-export_6
+  - first:
+      213: -5019552056126398396
+    second: Girl-Sheet-export_7
+  - first:
+      213: -6453315273518395834
+    second: Girl-Sheet-export_8
+  - first:
+      213: -810901374198472774
+    second: Girl-Sheet-export_9
+  - first:
+      213: 5433377777842430269
+    second: Girl-Sheet-export_10
+  - first:
+      213: -244561863306911599
+    second: Girl-Sheet-export_11
+  - first:
+      213: 6051822648634190315
+    second: Girl-Sheet-export_12
+  - first:
+      213: -2599670280024464953
+    second: Girl-Sheet-export_13
+  - first:
+      213: -3506908227863458807
+    second: Girl-Sheet-export_14
+  - first:
+      213: 4443678168647021278
+    second: Girl-Sheet-export_15
+  - first:
+      213: 2329392392080811871
+    second: Girl-Sheet-export_16
+  - first:
+      213: 5783280797594173873
+    second: Girl-Sheet-export_17
+  - first:
+      213: -1180246734565920389
+    second: Girl-Sheet-export_18
+  - first:
+      213: 7045879755942694889
+    second: Girl-Sheet-export_19
+  - first:
+      213: 45588065595988841
+    second: Girl-Sheet-export_20
+  - first:
+      213: -6865329567775586235
+    second: Girl-Sheet-export_21
+  - first:
+      213: 7631678921125618397
+    second: Girl-Sheet-export_22
+  - first:
+      213: -5107314304156305010
+    second: Girl-Sheet-export_23
+  - first:
+      213: -1263622457050672937
+    second: Girl-Sheet-export_24
+  - first:
+      213: -7197499512478464392
+    second: Girl-Sheet-export_25
+  - first:
+      213: -1661952645577052721
+    second: Girl-Sheet-export_26
+  - first:
+      213: 6755738198423133138
+    second: Girl-Sheet-export_27
+  - first:
+      213: -5274824099781529850
+    second: Girl-Sheet-export_28
+  - first:
+      213: -5924331806533093974
+    second: Girl-Sheet-export_29
+  - first:
+      213: -2366481471670441831
+    second: Girl-Sheet-export_30
+  - first:
+      213: 8994920550585372886
+    second: Girl-Sheet-export_31
+  - first:
+      213: -2248941409390616250
+    second: Girl-Sheet-export_32
+  - first:
+      213: -8137390153884648035
+    second: Girl-Sheet-export_33
+  - first:
+      213: 8853669570470409398
+    second: Girl-Sheet-export_34
+  - first:
+      213: 3626434113500792947
+    second: Girl-Sheet-export_35
+  - first:
+      213: 5220740381315557548
+    second: Girl-Sheet-export_36
+  - first:
+      213: 2951819124262286316
+    second: Girl-Sheet-export_37
+  - first:
+      213: 5573585970558034607
+    second: Girl-Sheet-export_38
+  - first:
+      213: 6544231796317460379
+    second: Girl-Sheet-export_39
+  - first:
+      213: 3607434186256585499
+    second: Girl-Sheet-export_40
+  - first:
+      213: 230396046137568731
+    second: Girl-Sheet-export_41
+  - first:
+      213: 3931362003497084019
+    second: Girl-Sheet-export_42
+  - first:
+      213: 2299493723444947329
+    second: Girl-Sheet-export_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Girl-Sheet-export_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2cd3a894f2c5cf0800000000000000
+      internalID: -262282685395909929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6005a38d4abbbccb0800000000000000
+      internalID: -4842570657630105594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6bc5504044d00f0800000000000000
+      internalID: -1149187545849088269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d1b86789aa04e70800000000000000
+      internalID: 9097458819088981396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d950552f47d7cc0800000000000000
+      internalID: -3711681933726081711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e83344f7ed5cb70800000000000000
+      internalID: 8918779275263577629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd3b5f6eea697b0800000000000000
+      internalID: -5217790811274224585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440210beff7f65ab0800000000000000
+      internalID: -5019552056126398396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e455a23f73176a0800000000000000
+      internalID: -6453315273518395834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf160b1f791fb4f0800000000000000
+      internalID: -810901374198472774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31acca3d4c376b40800000000000000
+      internalID: 5433377777842430269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190ebf3f7442b9cf0800000000000000
+      internalID: -244561863306911599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9218f82a46cf350800000000000000
+      internalID: 6051822648634190315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1600a67ad1cebd0800000000000000
+      internalID: -2599670280024464953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ccd421c85f45fc0800000000000000
+      internalID: -3506908227863458807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed23d5230cd1bad30800000000000000
+      internalID: 4443678168647021278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f576978f90aa35020800000000000000
+      internalID: 2329392392080811871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b140f88e37524050800000000000000
+      internalID: 5783280797594173873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7132ee19dbee9fe0800000000000000
+      internalID: -1180246734565920389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef841fae4ef7c160800000000000000
+      internalID: 7045879755942694889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b98d7aa16f1a000800000000000000
+      internalID: 45588065595988841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_21
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54800c6d12379b0a0800000000000000
+      internalID: -6865329567775586235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_22
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2678d5b8b29e960800000000000000
+      internalID: 7631678921125618397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89fd7833bc2f19b0800000000000000
+      internalID: -5107314304156305010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_24
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0d94df116b67ee0800000000000000
+      internalID: -1263622457050672937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8768cafc3585d1c90800000000000000
+      internalID: -7197499512478464392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdebdecfde8fe8e0800000000000000
+      internalID: -1661952645577052721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db5c88191431cd50800000000000000
+      internalID: 6755738198423133138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_28
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f2adfad6f0cc6b0800000000000000
+      internalID: -5274824099781529850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_29
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5fb044c9b88cda0800000000000000
+      internalID: -5924331806533093974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_30
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982a81c3a1982fd0800000000000000
+      internalID: -2366481471670441831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d09088659064dc70800000000000000
+      internalID: 8994920550585372886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_32
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6412b9c14b72ac0e0800000000000000
+      internalID: -2248941409390616250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_33
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9db1fec4ce221f80800000000000000
+      internalID: -8137390153884648035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_34
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4f29ac09d8eda70800000000000000
+      internalID: 8853669570470409398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_35
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378c290dc9ea35230800000000000000
+      internalID: 3626434113500792947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_36
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8e9d457bbc37840800000000000000
+      internalID: 5220740381315557548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bbd6aad7f6f820800000000000000
+      internalID: 2951819124262286316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_38
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2663cf8ea595d40800000000000000
+      internalID: 5573585970558034607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_39
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97915b5528c1da50800000000000000
+      internalID: 6544231796317460379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_40
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139c66874e201230800000000000000
+      internalID: 3607434186256585499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_41
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd2fa7bbf7823300800000000000000
+      internalID: 230396046137568731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37469e5b9e00f8630800000000000000
+      internalID: 3931362003497084019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Sheet-export_43
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 0
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1892d25bb5179ef10800000000000000
+      internalID: 2299493723444947329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Girl-Sheet-export_0: -262282685395909929
+      Girl-Sheet-export_1: -4842570657630105594
+      Girl-Sheet-export_10: 5433377777842430269
+      Girl-Sheet-export_11: -244561863306911599
+      Girl-Sheet-export_12: 6051822648634190315
+      Girl-Sheet-export_13: -2599670280024464953
+      Girl-Sheet-export_14: -3506908227863458807
+      Girl-Sheet-export_15: 4443678168647021278
+      Girl-Sheet-export_16: 2329392392080811871
+      Girl-Sheet-export_17: 5783280797594173873
+      Girl-Sheet-export_18: -1180246734565920389
+      Girl-Sheet-export_19: 7045879755942694889
+      Girl-Sheet-export_2: -1149187545849088269
+      Girl-Sheet-export_20: 45588065595988841
+      Girl-Sheet-export_21: -6865329567775586235
+      Girl-Sheet-export_22: 7631678921125618397
+      Girl-Sheet-export_23: -5107314304156305010
+      Girl-Sheet-export_24: -1263622457050672937
+      Girl-Sheet-export_25: -7197499512478464392
+      Girl-Sheet-export_26: -1661952645577052721
+      Girl-Sheet-export_27: 6755738198423133138
+      Girl-Sheet-export_28: -5274824099781529850
+      Girl-Sheet-export_29: -5924331806533093974
+      Girl-Sheet-export_3: 9097458819088981396
+      Girl-Sheet-export_30: -2366481471670441831
+      Girl-Sheet-export_31: 8994920550585372886
+      Girl-Sheet-export_32: -2248941409390616250
+      Girl-Sheet-export_33: -8137390153884648035
+      Girl-Sheet-export_34: 8853669570470409398
+      Girl-Sheet-export_35: 3626434113500792947
+      Girl-Sheet-export_36: 5220740381315557548
+      Girl-Sheet-export_37: 2951819124262286316
+      Girl-Sheet-export_38: 5573585970558034607
+      Girl-Sheet-export_39: 6544231796317460379
+      Girl-Sheet-export_4: -3711681933726081711
+      Girl-Sheet-export_40: 3607434186256585499
+      Girl-Sheet-export_41: 230396046137568731
+      Girl-Sheet-export_42: 3931362003497084019
+      Girl-Sheet-export_43: 2299493723444947329
+      Girl-Sheet-export_5: 8918779275263577629
+      Girl-Sheet-export_6: -5217790811274224585
+      Girl-Sheet-export_7: -5019552056126398396
+      Girl-Sheet-export_8: -6453315273518395834
+      Girl-Sheet-export_9: -810901374198472774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

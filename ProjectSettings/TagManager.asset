@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Boss
+  - Walls
+  - Snow
+  - Pushable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - PlayerProjectile
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2688766061
+    locked: 0
+  - name: Walkinfront
+    uniqueID: 3788415525
+    locked: 0
+  - name: Collision
+    uniqueID: 641103969
+    locked: 0
+  - name: Player
+    uniqueID: 1280127101
+    locked: 0
+  - name: Effects
+    uniqueID: 2857196039
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 723987359
+    locked: 0
+  - name: Decor
+    uniqueID: 4221878651
+    locked: 0
+  - name: UICommands
+    uniqueID: 3690482149
+    locked: 0
+  m_RenderingLayers:
+  - Default

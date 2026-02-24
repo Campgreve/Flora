@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf0108bce205a47c1af184d166838ff2, type: 3}
+  m_Name: Dialogue2
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Leo
+  npcPortrait: {fileID: 9016141254970463455, guid: 811ec064e43f24394801f23af522bf8b, type: 3}
+  dialogueLines:
+  - Eccomi, scusa mi sono dimenticato di dirti che davanti insomma...
+  - "C'\xE8 un procione... per\xF2 con il riscaldamento globale..."
+  - Mi potresti aiutare a cacciarlo?
+  typingSpeed: 0.05
+  autoProgressDelay: 1.7
+  autoProgressLines: 000000
+  voiceSound: {fileID: 8300000, guid: 57a3c3e0347d545179914b836503992a, type: 3}
+  voicePitch: 0.6

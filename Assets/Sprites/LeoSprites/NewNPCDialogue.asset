@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf0108bce205a47c1af184d166838ff2, type: 3}
+  m_Name: NewNPCDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Leo
+  npcPortrait: {fileID: 9016141254970463455, guid: 811ec064e43f24394801f23af522bf8b, type: 3}
+  dialogueLines:
+  - Ciao, sono Leonardo, ti ricordi come si usa l'arco??
+  - "per sparare devi tendere l'arco... logicamente se non lo tendi almeno alla met\xE0..."
+  - non riuscirai a sparare!!!
+  - se lo tendi al massimo farai il massimo del danno ;)
+  - davanti ci sono delle creature, vediamo se ci sai fare...
+  typingSpeed: 0.05
+  autoProgressDelay: 1.7
+  autoProgressLines: 0101010100
+  voiceSound: {fileID: 8300000, guid: 57a3c3e0347d545179914b836503992a, type: 3}
+  voicePitch: 0.6
